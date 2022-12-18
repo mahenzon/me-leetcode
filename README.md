@@ -11,10 +11,12 @@
 - [206. Reverse Linked List](problems/206-reverse-linked-list) \([leetcode](https://leetcode.com/problems/reverse-linked-list/)\)
 
 
+## binary search:
+- [704. Binary Search](problems/704-binary-search) \([leetcode](https://leetcode.com/problems/binary-search/)\)
+
 ## TODO
  
 ## binary search:
-- https://leetcode.com/problems/binary-search/
 - https://leetcode.com/problems/guess-number-higher-or-lower/
 - https://leetcode.com/problems/search-a-2d-matrix/
 - https://leetcode.com/problems/search-in-rotated-sorted-array/
