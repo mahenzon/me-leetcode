@@ -12,13 +12,13 @@
 
 
 ## binary search:
+- [74. Binary Search](problems/74-search-a-2d-matrix) \([leetcode](https://leetcode.com/problems/search-a-2d-matrix/)\)
 - [374. Guess Number Higher or Lower](problems/374-guess-number-higher-or-lower) \([leetcode](https://leetcode.com/problems/guess-number-higher-or-lower/)\)
 - [704. Binary Search](problems/704-binary-search) \([leetcode](https://leetcode.com/problems/binary-search/)\)
 
 ## TODO
  
 ## binary search:
-- https://leetcode.com/problems/search-a-2d-matrix/
 - https://leetcode.com/problems/search-in-rotated-sorted-array/
 - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
