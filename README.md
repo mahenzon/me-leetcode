@@ -8,10 +8,10 @@
 - [23. Merge k Sorted Lists](problems/23-merge-k-sorted-lists) \([leetcode](https://leetcode.com/problems/merge-k-sorted-lists/)\)
 - [141. Linked List Cycle](problems/141-linked-list-cycle) \([leetcode](https://leetcode.com/problems/linked-list-cycle/)\)
 - [142. Linked List Cycle II](problems/142-linked-list-cycle-ii) \([leetcode](https://leetcode.com/problems/linked-list-cycle-ii/)\)
+- [206. Reverse Linked List](problems/206-reverse-linked-list) \([leetcode](https://leetcode.com/problems/reverse-linked-list/)\)
 
 
 ## TODO
-- https://leetcode.com/problems/reverse-linked-list/
  
 ## binary search:
 - https://leetcode.com/problems/binary-search/
