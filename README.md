@@ -2,18 +2,19 @@
 
 ## Tasks
 
-| # name + solution                                                              | leetcode                                                                | type          |
-|--------------------------------------------------------------------------------|-------------------------------------------------------------------------|---------------|
-| [2. Add Two Numbers](problems/2-add-two-numbers)                               | [leetcode](https://leetcode.com/problems/add-two-numbers/)              | linked lists  |
-| [21. Merge Two Sorted Lists](problems/21-merge-two-sorted-lists)               | [leetcode](https://leetcode.com/problems/merge-k-sorted-lists/)         | linked lists  |
-| [23. Merge k Sorted Lists](problems/23-merge-k-sorted-lists)                   | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/)       | linked lists  |
-| [74. Binary Search](problems/74-search-a-2d-matrix)                            | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/)           | binary search |
-| [141. Linked List Cycle](problems/141-linked-list-cycle)                       | [leetcode](https://leetcode.com/problems/linked-list-cycle/)            | linked lists  |
-| [142. Linked List Cycle II](problems/142-linked-list-cycle-ii)                 | [leetcode](https://leetcode.com/problems/linked-list-cycle-ii/)         | linked lists  |
-| [148. Sort List](problems/148-sort-list)                                       | [leetcode](https://leetcode.com/problems/sort-list/)                    | linked lists  |
-| [206. Reverse Linked List](problems/206-reverse-linked-list)                   | [leetcode](https://leetcode.com/problems/reverse-linked-list/)          | linked lists  |
-| [374. Guess Number Higher or Lower](problems/374-guess-number-higher-or-lower) | [leetcode](https://leetcode.com/problems/guess-number-higher-or-lower/) | binary search |
-| [704. Binary Search](problems/704-binary-search)                               | [leetcode](https://leetcode.com/problems/binary-search/)                | binary search |
+| # name + solution                                                              | leetcode                                                                | type             |
+|--------------------------------------------------------------------------------|-------------------------------------------------------------------------|------------------|
+| [2. Add Two Numbers](problems/2-add-two-numbers)                               | [leetcode](https://leetcode.com/problems/add-two-numbers/)              | linked lists     |
+| [21. Merge Two Sorted Lists](problems/21-merge-two-sorted-lists)               | [leetcode](https://leetcode.com/problems/merge-k-sorted-lists/)         | linked lists     |
+| [23. Merge k Sorted Lists](problems/23-merge-k-sorted-lists)                   | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/)       | linked lists     |
+| [74. Binary Search](problems/74-search-a-2d-matrix)                            | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/)           | binary search    |
+| [141. Linked List Cycle](problems/141-linked-list-cycle)                       | [leetcode](https://leetcode.com/problems/linked-list-cycle/)            | linked lists     |
+| [142. Linked List Cycle II](problems/142-linked-list-cycle-ii)                 | [leetcode](https://leetcode.com/problems/linked-list-cycle-ii/)         | linked lists     |
+| [148. Sort List](problems/148-sort-list)                                       | [leetcode](https://leetcode.com/problems/sort-list/)                    | linked lists     |
+| [149. Max Points on a Line](problems/149-max-points-on-a-line)                 | [leetcode](https://leetcode.com/problems/max-points-on-a-line/)         | points and lines |
+| [206. Reverse Linked List](problems/206-reverse-linked-list)                   | [leetcode](https://leetcode.com/problems/reverse-linked-list/)          | linked lists     |
+| [374. Guess Number Higher or Lower](problems/374-guess-number-higher-or-lower) | [leetcode](https://leetcode.com/problems/guess-number-higher-or-lower/) | binary search    |
+| [704. Binary Search](problems/704-binary-search)                               | [leetcode](https://leetcode.com/problems/binary-search/)                | binary search    |
 
 
 ## TODO
