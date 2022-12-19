@@ -1,7 +1,6 @@
 # 21. Merge Two Sorted Lists
 
-_Easy_
-
+> Easy
 
 You are given the heads of two sorted linked lists `list1` and `list2`.
 

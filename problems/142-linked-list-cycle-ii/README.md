@@ -1,6 +1,6 @@
 # 142. Linked List Cycle II
 
-_Medium_
+> Medium
 
 Given the `head` of a linked list, return _the node where the cycle begins. If there is no cycle, return_ `null`.
 

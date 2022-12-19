@@ -1,5 +1,6 @@
 # 74. Search a 2D Matrix
 
+> Medium
 
 Write an efficient algorithm that searches for a value `target` in an `m x n` integer matrix `matrix`. This matrix has the following properties:
 

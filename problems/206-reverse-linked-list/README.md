@@ -1,6 +1,6 @@
 # 206. Reverse Linked List
 
-_Easy_
+> Easy
 
 Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
 

@@ -1,5 +1,7 @@
 # 148. Sort List
 
+> Medium
+
 Given the `head` of a linked list, return _the list after sorting it in **ascending order**_.
 
 ### Example 1

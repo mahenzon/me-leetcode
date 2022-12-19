@@ -1,6 +1,6 @@
 # 374. Guess Number Higher or Lower
 
-_Easy_
+> Easy
 
 We are playing the Guess Game. The game is as follows:
 
