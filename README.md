@@ -12,6 +12,7 @@
 | [21. Merge Two Sorted Lists](problems/21-merge-two-sorted-lists)                                                               | [leetcode](https://leetcode.com/problems/merge-k-sorted-lists/)                                 | linked lists     |
 | [23. Merge k Sorted Lists](problems/23-merge-k-sorted-lists)                                                                   | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/)                               | linked lists     |
 | [33. Search in Rotated Sorted Array](problems/33-search-in-rotated-sorted-array)                                               | [leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/)                       | binary search    |
+| [56. Merge Intervals](problems/56-merge-intervals)                                                                             | [leetcode](https://leetcode.com/problems/merge-intervals/)                                      | sort?            |
 | [74. Binary Search](problems/74-search-a-2d-matrix)                                                                            | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/)                                   | binary search    |
 | [81. Search in Rotated Sorted Array II](problems/81-search-in-rotated-sorted-array-ii)                                         | [leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)                    | binary search    |
 | [98. Validate Binary Search Tree](problems/98-validate-binary-search-tree)                                                     | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/)                          | binary tree      |
@@ -44,10 +45,8 @@
 ### dfs/bfs:
 - https://leetcode.com/problems/number-of-islands/
 - https://leetcode.com/problems/remove-invalid-parentheses/
- 
-### sort:
-- https://leetcode.com/problems/merge-intervals/
- 
+
+
 ### heap/hash:
 - https://leetcode.com/problems/top-k-frequent-words/
 - https://leetcode.com/problems/top-k-frequent-elements/
