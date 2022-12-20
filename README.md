@@ -18,6 +18,7 @@
 | [98. Validate Binary Search Tree](problems/98-validate-binary-search-tree)                                                     | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/)                          | binary tree      |
 | [100. Same Tree](problems/100-same-tree)                                                                                       | [leetcode](https://leetcode.com/problems/same-tree/)                                            | binary tree      |
 | [101. Symmetric Tree](problems/101-symmetric-tree)                                                                             | [leetcode](https://leetcode.com/problems/symmetric-tree/)                                       | binary tree      |
+| [110. Balanced Binary Tree](problems/110-balanced-binary-tree)                                                                 | [leetcode](https://leetcode.com/problems/balanced-binary-tree/)                                 | binary tree      |
 | [112. Path Sum](problems/112-path-sum)                                                                                         | [leetcode](https://leetcode.com/problems/path-sum/)                                             | binary tree      |
 | [113. Path Sum II](problems/113-path-sum-ii)                                                                                   | [leetcode](https://leetcode.com/problems/path-sum-ii/)                                          | binary tree      |
 | [121. Best Time to Buy and Sell Stock](problems/121-best-time-to-buy-and-sell-stock)                                           | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                      | greedy           |
@@ -62,6 +63,3 @@
 - https://leetcode.com/problems/sliding-window-median/
 - https://leetcode.com/problems/sliding-window-maximum/
 - https://leetcode.com/problems/longest-repeating-character-replacement/
- 
-### tree:
-- https://leetcode.com/problems/balanced-binary-tree/
