@@ -17,6 +17,7 @@
 | [81. Search in Rotated Sorted Array II](problems/81-search-in-rotated-sorted-array-ii)                                         | [leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)                    | binary search    |
 | [98. Validate Binary Search Tree](problems/98-validate-binary-search-tree)                                                     | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/)                          | binary tree      |
 | [112. Path Sum](problems/112-path-sum)                                                                                         | [leetcode](https://leetcode.com/problems/path-sum/)                                             | tree             |
+| [113. Path Sum II](problems/113-path-sum-ii)                                                                                   | [leetcode](https://leetcode.com/problems/path-sum-ii/)                                          | tree             |
 | [121. Best Time to Buy and Sell Stock](problems/121-best-time-to-buy-and-sell-stock)                                           | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                      | greedy           |
 | [122. Best Time to Buy and Sell Stock II](problems/122-best-time-to-buy-and-sell-stock-ii)                                     | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                   | greedy           |
 | [123. Best Time to Buy and Sell Stock III](problems/123-best-time-to-buy-and-sell-stock-iii)                                   | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)                  | greedy           |
@@ -63,4 +64,3 @@
 - https://leetcode.com/problems/same-tree/
 - https://leetcode.com/problems/symmetric-tree/
 - https://leetcode.com/problems/balanced-binary-tree/
-- https://leetcode.com/problems/path-sum-ii/
