@@ -12,6 +12,7 @@
 | [33. Search in Rotated Sorted Array](problems/33-search-in-rotated-sorted-array)               | [leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/)       | binary search    |
 | [81. Search in Rotated Sorted Array II](problems/81-search-in-rotated-sorted-array-ii)         | [leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)    | binary search    |
 | [74. Binary Search](problems/74-search-a-2d-matrix)                                            | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/)                   | binary search    |
+| [136. Single Number](problems/136-single-number)                                               | [leetcode](https://leetcode.com/problems/single-number/)                        | hash table       |
 | [141. Linked List Cycle](problems/141-linked-list-cycle)                                       | [leetcode](https://leetcode.com/problems/linked-list-cycle/)                    | linked lists     |
 | [142. Linked List Cycle II](problems/142-linked-list-cycle-ii)                                 | [leetcode](https://leetcode.com/problems/linked-list-cycle-ii/)                 | linked lists     |
 | [148. Sort List](problems/148-sort-list)                                                       | [leetcode](https://leetcode.com/problems/sort-list/)                            | linked lists     |
@@ -27,7 +28,6 @@
 
  
 ### hash table:
-- https://leetcode.com/problems/single-number/ - решить за O(1) по памяти
 - https://leetcode.com/problems/two-sum/
 - https://leetcode.com/problems/4sum/
 - https://leetcode.com/problems/group-anagrams/
