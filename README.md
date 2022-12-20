@@ -28,6 +28,7 @@
 | [167. Two Sum II - Input Array Is Sorted](problems/167-two-sum-ii-input-array-is-sorted)                                       | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                     | ?? search        |
 | [206. Reverse Linked List](problems/206-reverse-linked-list)                                                                   | [leetcode](https://leetcode.com/problems/reverse-linked-list/)                                  | linked lists     |
 | [309. Best Time to Buy and Sell Stock with Cooldown](problems/309-best-time-to-buy-and-sell-stock-with-cooldown)               | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)        | greedy           |
+| [347. Top K Frequent Elements](problems/347-top-k-frequent-elements)                                                           | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/)                              | heap/hash        |
 | [374. Guess Number Higher or Lower](problems/374-guess-number-higher-or-lower)                                                 | [leetcode](https://leetcode.com/problems/guess-number-higher-or-lower/)                         | binary search    |
 | [704. Binary Search](problems/704-binary-search)                                                                               | [leetcode](https://leetcode.com/problems/binary-search/)                                        | binary search    |
 | [714. Best Time to Buy and Sell Stock with Transaction Fee](problems/714-best-time-to-buy-and-sell-stock-with-transaction-fee) | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | greedy           |
@@ -47,10 +48,6 @@
 - https://leetcode.com/problems/remove-invalid-parentheses/
 
 
-### heap/hash:
-- https://leetcode.com/problems/top-k-frequent-words/
-- https://leetcode.com/problems/top-k-frequent-elements/
- 
 ### two pointers:
 - https://leetcode.com/problems/container-with-most-water/
 - https://leetcode.com/problems/partition-labels/
