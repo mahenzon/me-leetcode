@@ -7,6 +7,7 @@
 | [1. Two Sum](problems/1.two-sum)                                                               | [leetcode](https://leetcode.com/problems/two-sum/)                              | hash table       |
 | [2. Add Two Numbers](problems/2-add-two-numbers)                                               | [leetcode](https://leetcode.com/problems/add-two-numbers/)                      | linked lists     |
 | [15. 3Sum](problems/15-3sum)                                                                   | [leetcode](https://leetcode.com/problems/3sum/)                                 | ?? search        |
+| [18. 4Sum](problems/18-4sum)                                                                   | [leetcode](https://leetcode.com/problems/4sum/)                                 | ?? search        |
 | [21. Merge Two Sorted Lists](problems/21-merge-two-sorted-lists)                               | [leetcode](https://leetcode.com/problems/merge-k-sorted-lists/)                 | linked lists     |
 | [23. Merge k Sorted Lists](problems/23-merge-k-sorted-lists)                                   | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/)               | linked lists     |
 | [33. Search in Rotated Sorted Array](problems/33-search-in-rotated-sorted-array)               | [leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/)       | binary search    |
@@ -28,8 +29,6 @@
 
  
 ### hash table:
-- https://leetcode.com/problems/two-sum/
-- https://leetcode.com/problems/4sum/
 - https://leetcode.com/problems/group-anagrams/
 - https://leetcode.com/problems/valid-anagram/
 - https://leetcode.com/problems/find-all-anagrams-in-a-string/
