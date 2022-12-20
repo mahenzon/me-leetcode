@@ -16,6 +16,7 @@
 | [148. Sort List](problems/148-sort-list)                                                       | [leetcode](https://leetcode.com/problems/sort-list/)                            | linked lists     |
 | [149. Max Points on a Line](problems/149-max-points-on-a-line)                                 | [leetcode](https://leetcode.com/problems/max-points-on-a-line/)                 | points and lines |
 | [153. Find Minimum in Rotated Sorted Array](problems/153-find-minimum-in-rotated-sorted-array) | [leetcode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | binary search    |
+| [167. Two Sum II - Input Array Is Sorted](problems/167-two-sum-ii-input-array-is-sorted)       | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)     | ?? search        |
 | [206. Reverse Linked List](problems/206-reverse-linked-list)                                   | [leetcode](https://leetcode.com/problems/reverse-linked-list/)                  | linked lists     |
 | [374. Guess Number Higher or Lower](problems/374-guess-number-higher-or-lower)                 | [leetcode](https://leetcode.com/problems/guess-number-higher-or-lower/)         | binary search    |
 | [704. Binary Search](problems/704-binary-search)                                               | [leetcode](https://leetcode.com/problems/binary-search/)                        | binary search    |
