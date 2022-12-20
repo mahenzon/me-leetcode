@@ -14,6 +14,7 @@
 | [74. Binary Search](problems/74-search-a-2d-matrix)                                            | [leetcode](https://leetcode.com/problems/search-a-2d-matrix/)                   | binary search    |
 | [81. Search in Rotated Sorted Array II](problems/81-search-in-rotated-sorted-array-ii)         | [leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)    | binary search    |
 | [98. Validate Binary Search Tree](problems/98-validate-binary-search-tree)                     | [leetcode](https://leetcode.com/problems/validate-binary-search-tree/)          | binary tree      |
+| [121. Best Time to Buy and Sell Stock](problems/121-best-time-to-buy-and-sell-stock)           | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)      | greedy           |
 | [136. Single Number](problems/136-single-number)                                               | [leetcode](https://leetcode.com/problems/single-number/)                        | hash table       |
 | [141. Linked List Cycle](problems/141-linked-list-cycle)                                       | [leetcode](https://leetcode.com/problems/linked-list-cycle/)                    | linked lists     |
 | [142. Linked List Cycle II](problems/142-linked-list-cycle-ii)                                 | [leetcode](https://leetcode.com/problems/linked-list-cycle-ii/)                 | linked lists     |
@@ -64,7 +65,6 @@
 - https://leetcode.com/problems/path-sum-ii/
  
 ### greedy problems:
-- https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
