@@ -38,6 +38,7 @@
 | [309. Best Time to Buy and Sell Stock with Cooldown](problems/309-best-time-to-buy-and-sell-stock-with-cooldown)               | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)        | greedy           |
 | [347. Top K Frequent Elements](problems/347-top-k-frequent-elements)                                                           | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/)                              | heap/hash        |
 | [374. Guess Number Higher or Lower](problems/374-guess-number-higher-or-lower)                                                 | [leetcode](https://leetcode.com/problems/guess-number-higher-or-lower/)                         | binary search    |
+| [424. Longest Repeating Character Replacement](problems/424-longest-repeating-character-replacement)                           | [leetcode](https://leetcode.com/problems/longest-repeating-character-replacement/)              | sliding window   |
 | [437. Path Sum III](problems/437-path-sum-iii)                                                                                 | [leetcode](https://leetcode.com/problems/path-sum-iii/)                                         | tree             |
 | [692. Top K Frequent Words](problems/692-top-k-frequent-words)                                                                 | [leetcode](https://leetcode.com/problems/top-k-frequent-words/)                                 | heap/hash        |
 | [704. Binary Search](problems/704-binary-search)                                                                               | [leetcode](https://leetcode.com/problems/binary-search/)                                        | binary search    |
@@ -65,4 +66,3 @@
 ### sliding window:
 - https://leetcode.com/problems/sliding-window-median/
 - https://leetcode.com/problems/sliding-window-maximum/
-- https://leetcode.com/problems/longest-repeating-character-replacement/
