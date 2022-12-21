@@ -7,6 +7,7 @@
 | [1. Two Sum](problems/1.two-sum)                                                                                               | [leetcode](https://leetcode.com/problems/two-sum/)                                              | hash table       |
 | [2. Add Two Numbers](problems/2-add-two-numbers)                                                                               | [leetcode](https://leetcode.com/problems/add-two-numbers/)                                      | linked lists     |
 | [3. Longest Substring Without Repeating Characters](problems/3-longest-substring-without-repeating-characters)                 | [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)       | sliding window   |
+| [11. Container With Most Water](problems/11-container-with-most-water)                                                         | [leetcode](https://leetcode.com/problems/container-with-most-water/)                            | two pointers     |
 | [12. Integer to Roman](problems/12-integer-to-roman)                                                                           | [leetcode](https://leetcode.com/problems/integer-to-roman/)                                     | hash table ?     |
 | [13. Roman to Integer](problems/13-roman-to-integer)                                                                           | [leetcode](https://leetcode.com/problems/roman-to-integer/)                                     | hash table ?     |
 | [15. 3Sum](problems/15-3sum)                                                                                                   | [leetcode](https://leetcode.com/problems/3sum/)                                                 | ?? search        |
@@ -58,7 +59,6 @@
 
 
 ### two pointers:
-- https://leetcode.com/problems/container-with-most-water/
 - https://leetcode.com/problems/partition-labels/
  
 ### sliding window:
