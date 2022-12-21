@@ -49,6 +49,7 @@
 | [692. Top K Frequent Words](problems/692-top-k-frequent-words)                                                                 | [leetcode](https://leetcode.com/problems/top-k-frequent-words/)                                 | heap/hash        |
 | [704. Binary Search](problems/704-binary-search)                                                                               | [leetcode](https://leetcode.com/problems/binary-search/)                                        | binary search    |
 | [714. Best Time to Buy and Sell Stock with Transaction Fee](problems/714-best-time-to-buy-and-sell-stock-with-transaction-fee) | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | greedy           |
+| [763. Partition Labels](problems/763-partition-labels)                                                                         | [leetcode](https://leetcode.com/problems/partition-labels/)                                     | two pointers     |
 
 
 ## TODO
@@ -57,9 +58,6 @@
 ### dfs/bfs:
 - https://leetcode.com/problems/remove-invalid-parentheses/
 
-
-### two pointers:
-- https://leetcode.com/problems/partition-labels/
  
 ### sliding window:
 - https://leetcode.com/problems/sliding-window-median/
