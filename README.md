@@ -35,6 +35,7 @@
 | [149. Max Points on a Line](problems/149-max-points-on-a-line)                                                                 | [leetcode](https://leetcode.com/problems/max-points-on-a-line/)                                 | points and lines |
 | [153. Find Minimum in Rotated Sorted Array](problems/153-find-minimum-in-rotated-sorted-array)                                 | [leetcode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                 | binary search    |
 | [167. Two Sum II - Input Array Is Sorted](problems/167-two-sum-ii-input-array-is-sorted)                                       | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                     | ?? search        |
+| [200. Number of Islands](problems/200-number-of-islands)                                                                       | [leetcode](https://leetcode.com/problems/number-of-islands/)                                    | dfs/bfs          |
 | [206. Reverse Linked List](problems/206-reverse-linked-list)                                                                   | [leetcode](https://leetcode.com/problems/reverse-linked-list/)                                  | linked lists     |
 | [239. Sliding Window Maximum](problems/239-sliding-window-maximum)                                                             | [leetcode](https://leetcode.com/problems/sliding-window-maximum/)                               | sliding window   |
 | [242. Valid Anagram](problems/242-valid-anagram)                                                                               | [leetcode](https://leetcode.com/problems/valid-anagram/)                                        | hash table       |
@@ -53,7 +54,6 @@
 
 
 ### dfs/bfs:
-- https://leetcode.com/problems/number-of-islands/
 - https://leetcode.com/problems/remove-invalid-parentheses/
 
 
