@@ -37,6 +37,7 @@
 | [167. Two Sum II - Input Array Is Sorted](problems/167-two-sum-ii-input-array-is-sorted)                                       | [leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                     | ?? search        |
 | [206. Reverse Linked List](problems/206-reverse-linked-list)                                                                   | [leetcode](https://leetcode.com/problems/reverse-linked-list/)                                  | linked lists     |
 | [239. Sliding Window Maximum](problems/239-sliding-window-maximum)                                                             | [leetcode](https://leetcode.com/problems/sliding-window-maximum/)                               | sliding window   |
+| [242. Valid Anagram](problems/242-valid-anagram)                                                                               | [leetcode](https://leetcode.com/problems/valid-anagram/)                                        | hash table       |
 | [309. Best Time to Buy and Sell Stock with Cooldown](problems/309-best-time-to-buy-and-sell-stock-with-cooldown)               | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)        | greedy           |
 | [347. Top K Frequent Elements](problems/347-top-k-frequent-elements)                                                           | [leetcode](https://leetcode.com/problems/top-k-frequent-elements/)                              | heap/hash        |
 | [374. Guess Number Higher or Lower](problems/374-guess-number-higher-or-lower)                                                 | [leetcode](https://leetcode.com/problems/guess-number-higher-or-lower/)                         | binary search    |
@@ -51,7 +52,6 @@
 
  
 ### hash table:
-- https://leetcode.com/problems/valid-anagram/
 - https://leetcode.com/problems/find-all-anagrams-in-a-string/
 
 
