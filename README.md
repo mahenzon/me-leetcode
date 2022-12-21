@@ -43,16 +43,13 @@
 | [374. Guess Number Higher or Lower](problems/374-guess-number-higher-or-lower)                                                 | [leetcode](https://leetcode.com/problems/guess-number-higher-or-lower/)                         | binary search    |
 | [424. Longest Repeating Character Replacement](problems/424-longest-repeating-character-replacement)                           | [leetcode](https://leetcode.com/problems/longest-repeating-character-replacement/)              | sliding window   |
 | [437. Path Sum III](problems/437-path-sum-iii)                                                                                 | [leetcode](https://leetcode.com/problems/path-sum-iii/)                                         | tree             |
+| [438. Find All Anagrams in a String](problems/439-find-all-anagrams-in-a-string)                                               | [leetcode](https://leetcode.com/problems/find-all-anagrams-in-a-string/)                        | sliding window   |
 | [692. Top K Frequent Words](problems/692-top-k-frequent-words)                                                                 | [leetcode](https://leetcode.com/problems/top-k-frequent-words/)                                 | heap/hash        |
 | [704. Binary Search](problems/704-binary-search)                                                                               | [leetcode](https://leetcode.com/problems/binary-search/)                                        | binary search    |
 | [714. Best Time to Buy and Sell Stock with Transaction Fee](problems/714-best-time-to-buy-and-sell-stock-with-transaction-fee) | [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | greedy           |
 
 
 ## TODO
-
- 
-### hash table:
-- https://leetcode.com/problems/find-all-anagrams-in-a-string/
 
 
 ### dfs/bfs:
